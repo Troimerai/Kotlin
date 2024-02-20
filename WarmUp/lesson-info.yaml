@@ -1,5 +1,4 @@
 type: framework
-custom_name: Warm up
 content:
   - Introduction
   - typesOfVariablesTheory
@@ -29,4 +28,4 @@ content:
   - breakExpression
   - CompleteTheProject
 is_template_based: false
-current_task: 0
+current_task: 26

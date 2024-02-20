@@ -46,7 +46,9 @@
     <output-test url="file://$MODULE_DIR$/../../../../Hangman/task/out/test/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../Hangman/task/src/test" />
-    <content url="file://$MODULE_DIR$/../../../../Hangman/task/test" />
+    <content url="file://$MODULE_DIR$/../../../../Hangman/task/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../Hangman/task/test" isTestSource="true" />
+    </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="CSC_Kotlin_Course.Hangman-task.main" />
